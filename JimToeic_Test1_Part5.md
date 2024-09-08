@@ -196,3 +196,185 @@
 **(C) what**
 
 (D) which
+121) Should there be any requests for schedule changes, please notify us --------.
+
+(A) prompt
+
+(B)prompied
+
+**(C) promptly**
+
+(D) prompting
+
+122) For this weekend only, Bad Boys Electronics Store is celebrating its first year in business wilh up to thirty percent ----- on all items in the store.
+(A) retail
+(B) market
+(C) economy
+**(D) discounts**
+
+123) The automobile parts we requested for our customer got here on -------
+
+(A) aulhority
+
+(B) condition
+
+**(C) schedule**
+
+(D) appointment
+
+124) The advertisements printed ir this magazine do not ------ imply endorsement by the management.
+
+(A) highly
+
+(B) barely
+
+(C) gradually
+
+**(D) necessarily**
+
+125) The newly installed alarm system, which is directly connected to the police, will go off if the correct security code is not entered ------- 60 seconds of touching the keypad.
+
+(A) only
+
+(B) under
+
+**(C)within**
+
+(D)directly
+
+126) The airline requested a ------- call to ensure a seat on my flight back home.
+(A) confirm
+
+(B) confirmed
+
+(C) confirming
+
+**(D) confirmation**
+
+127) If the task is too complicated to figure out on ------- own, please don't hesitate to ask one of our representatives, who are here to help.
+
+(A) you
+
+(B) your
+
+(C) yours
+
+**(D)yourself**
+
+128) The hard work put in during his younger years made him become ------- sound in his later years.
+(A) finance
+
+(B) finances
+
+**(C) financial**
+
+(D) financially
+
+129) Ms. Taylor has called the nanagers to her ..... in the main conference room to discuss next year's budget.
+
+(A)met
+
+**(B) meet**
+
+(C) have met
+
+(D) will me
+
+130) ------ announcing his retirement, Mr. Kinsley has been busy tryinq to train his replacement.
+
+(A) Because
+
+**(B) Once**
+
+(C) Since
+
+(D) While
+
+131) Please fax us the information immediately because I need to ----- the client right away.
+
+**(A) notify**
+
+(B) speak
+
+(C) report
+
+(D) attend
+
+132) One ofthe reasons why our sales team has become a leader today is that they are put through a number of vigorous training sessions to keep up with the ----- changes
+that occur in the market.
+
+(A) prosperous
+
+**(B)continuous**
+
+(C) straight
+
+(D) mature
+
+133) John is a bit nervous because he will give a speech ------- the board members this afternoon.
+
+(A) by
+
+(B) on
+
+**(C) to**
+
+(D) during
+134) Of the many radio stations in the city, FM 109 is considered to play the listening music.
+(A)easy
+
+(B) easlest
+
+(C) more easily
+
+**(D) most easily**
+
+135) The new expensive software was purchased to help keep better ------ ofthe clients we have here at our company
+
+**(A) records**
+
+(B) siates
+
+(C) points
+
+(D) marks
+
+136) Only after ------  requests by the tenants did the superintendent do something about the broken intercoms in some of the apartments.
+
+(A) repeat
+
+**(B) repeated**
+
+(C) repeating
+
+(D) repetition
+
+137. A rain shower ------- by cold winds is expected to reach our region by this evening.
+
+(A) accompany
+
+(B) accompanied
+
+**(C) accompanying**
+
+(D) will accompany
+
+138. The special deal offered by our supplier will last only for a ------- time.
+
+**(A) limited**
+
+(B) minor
+
+(C) partial
+
+(D) lower
+
+139 ------- something drastic happens before midnight, the postal workers will most likely walk out on their jobs
+
+(A) Also
+
+(B) Except
+
+**(C) Unless**
+
+(D) Therefore
