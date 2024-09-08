@@ -378,6 +378,7 @@ that occur in the market.
 **(C) Unless**
 
 (D) Therefore
+
 140. The defense attorney contemplated a long time before finally making his decision to ------- the accused in court.
 
 (A) attend
