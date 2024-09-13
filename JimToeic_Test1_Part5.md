@@ -29,6 +29,7 @@
 (D) although
 
 104) Allcommuters ------- the main highway to get to the center of the city will face delays of upto an hourtoday because ol on-going construction.
+
 (A) use
 
 (B) used
@@ -49,11 +50,11 @@
 
 106) The outcome of our meeting today with the board of directors will ------ the course of action we willtake this year.
 
-**(A) detormine**
+**(A) determine**
 
 (B) determines
 
-(C) determininq
+(C) determining
 
 (D) detennination
 
