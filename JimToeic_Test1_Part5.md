@@ -28,7 +28,7 @@
 
 (D) although
 
-104) Allcommuters ------- the main highway to get to the center of the city will face delays of upto an hourtoday because ol on-going construction.
+104) All commuters ------- the main highway to get to the center of the city will face delays of upto an hourtoday because ol on-going construction.
 
 (A) use
 
