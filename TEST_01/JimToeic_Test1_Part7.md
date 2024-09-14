@@ -222,7 +222,9 @@ FOR MORE INFORMATION ASK AT FRONT DESK
 
 163. According to the information, which can be performed at 1 o'clock in the morning?
 
-(A) Withdrawing some cash (B) Working out at the gym
+(A) Withdrawing some cash
+
+(B) Working out at the gym
 
 **(C) Getting medicine for a cold**
 
