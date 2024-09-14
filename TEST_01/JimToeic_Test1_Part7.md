@@ -44,7 +44,7 @@ Jeff Connelly
 
 (C) The hotel is located close to the club.
 
-** (D) He was impressed with its menu.**
+**(D) He was impressed with its menu.**
 
 ### "HOMESTAY NETWORK" STUDENT GUIDELINES
 
@@ -143,7 +143,6 @@ Don't miss out!
 Offer is good until this Friday
 
 310 St. George Street, Suite 601, Chicago T: 755-3422 W: pumpitclub.com
-
 
 160. Who does this advertisement mainly target?
 
