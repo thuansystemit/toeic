@@ -357,9 +357,9 @@ that occur in the market.
 
 (A) accompany
 
-(B) accompanied
+**(B) accompanied**
 
-**(C) accompanying**
+(C) accompanying
 
 (D) will accompany
 
