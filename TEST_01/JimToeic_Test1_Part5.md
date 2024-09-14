@@ -257,11 +257,11 @@
 
 (A) you
 
-(B) your
+**(B) your**
 
 (C) yours
 
-**(D)yourself**
+(D)yourself
 
 128) The hard work put in during his younger years made him become ------- sound in his later years.
 (A) finance
