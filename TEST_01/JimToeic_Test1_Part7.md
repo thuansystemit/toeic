@@ -44,7 +44,7 @@ Jeff Connelly
 
 (C) The hotel is located close to the club.
 
-** (D) He was impressed with its menu.**
+**(D) He was impressed with its menu.**
 
 ### "HOMESTAY NETWORK" STUDENT GUIDELINES
 
@@ -144,7 +144,6 @@ Offer is good until this Friday
 
 310 St. George Street, Suite 601, Chicago T: 755-3422 W: pumpitclub.com
 
-
 160. Who does this advertisement mainly target?
 
 (A) Anyone who failed at dieting during the summer
@@ -223,7 +222,9 @@ FOR MORE INFORMATION ASK AT FRONT DESK
 
 163. According to the information, which can be performed at 1 o'clock in the morning?
 
-(A) Withdrawing some cash (B) Working out at the gym
+(A) Withdrawing some cash
+
+(B) Working out at the gym
 
 **(C) Getting medicine for a cold**
 

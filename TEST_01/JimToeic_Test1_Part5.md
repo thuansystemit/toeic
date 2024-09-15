@@ -257,11 +257,11 @@
 
 (A) you
 
-(B) your
+**(B) your**
 
 (C) yours
 
-**(D)yourself**
+(D)yourself
 
 128) The hard work put in during his younger years made him become ------- sound in his later years.
 (A) finance
@@ -327,11 +327,11 @@ that occur in the market.
 
 (A)easy
 
-(B) easlest
+**(B) easlest**
 
 (C) more easily
 
-**(D) most easily**
+(D) most easily
 
 135) The new expensive software was purchased to help keep better ------ ofthe clients we have here at our company
 
@@ -357,9 +357,9 @@ that occur in the market.
 
 (A) accompany
 
-(B) accompanied
+**(B) accompanied**
 
-**(C) accompanying**
+(C) accompanying
 
 (D) will accompany
 
