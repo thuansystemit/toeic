@@ -348,7 +348,7 @@
 
 **(D) No matter**
 
-136. The detective the solving of this case to an anonymous phone call the police received a few hours before the arrest took place.
+136. The detective ----- the solving of this case to an anonymous phone call the police received a few hours before the arrest took place.
 
 (A) accused
 
